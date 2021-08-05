@@ -1,0 +1,17 @@
+C:\Users\AkiraC\Desktop\Angular+ASP\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\AkiraC\Desktop\Angular+ASP\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\AkiraC\Desktop\Angular+ASP\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\Angular_ASPnetAPI.deps.json
+C:\Users\AkiraC\Desktop\Angular+ASP\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\Angular_ASPnetAPI.runtimeconfig.json
+C:\Users\AkiraC\Desktop\Angular+ASP\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\Angular_ASPnetAPI.runtimeconfig.dev.json
+C:\Users\AkiraC\Desktop\Angular+ASP\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\Angular_ASPnetAPI.dll
+C:\Users\AkiraC\Desktop\Angular+ASP\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\Angular_ASPnetAPI.pdb
+C:\Users\AkiraC\Desktop\Angular+ASP\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\Angular_ASPnetAPI.csproj.AssemblyReference.cache
+C:\Users\AkiraC\Desktop\Angular+ASP\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\Angular_ASPnetAPI.AssemblyInfoInputs.cache
+C:\Users\AkiraC\Desktop\Angular+ASP\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\Angular_ASPnetAPI.AssemblyInfo.cs
+C:\Users\AkiraC\Desktop\Angular+ASP\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\Angular_ASPnetAPI.csproj.CoreCompileInputs.cache
+C:\Users\AkiraC\Desktop\Angular+ASP\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\Angular_ASPnetAPI.RazorAssemblyInfo.cache
+C:\Users\AkiraC\Desktop\Angular+ASP\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\Angular_ASPnetAPI.RazorAssemblyInfo.cs
+C:\Users\AkiraC\Desktop\Angular+ASP\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\Angular_ASPnetAPI.RazorTargetAssemblyInfo.cache
+C:\Users\AkiraC\Desktop\Angular+ASP\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\Angular_ASPnetAPI.dll
+C:\Users\AkiraC\Desktop\Angular+ASP\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\Angular_ASPnetAPI.pdb
+C:\Users\AkiraC\Desktop\Angular+ASP\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\Angular_ASPnetAPI.genruntimeconfig.cache
